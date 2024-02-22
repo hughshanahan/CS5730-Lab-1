@@ -3,7 +3,7 @@
 ## Running on Binder
 Please click on the launch Binder icon below. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hughshanahan/CS2900-Lab-1/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hughshanahan/CS5730-Lab-1/HEAD)
 
 
 It will take a few minutes to launch....
